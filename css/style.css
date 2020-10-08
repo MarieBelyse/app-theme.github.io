@@ -146,6 +146,10 @@ img{
   padding:10px;
   border:0;
 }
+/* PAGE */
+#page{
+  margin-bottom:40px;
+}
 /* FOOTER */
 #main-footer{
   background:#56a79a;
